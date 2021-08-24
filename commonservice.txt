@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 공통기능 구현
-=======
 a-branch 공통기능 추가
->>>>>>> a-branch
-=======
 b-branch 공통기능 추가
->>>>>>> b-branch
